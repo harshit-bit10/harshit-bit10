@@ -1,11 +1,9 @@
-# 👋 Hello, I'm **Harshit**! ✨
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=Passionate+Coder+from+India;Exploring+Telegram+Bot+Development;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</div>
+# <div align="center">👋 Hello, I'm <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Harshit!✨" alt="Typing SVG" /></div>
 
 ## 🌟 About Me
-Hey there! I'm a **passionate coder** from India, with 1.5 years of experience in the world of technology and coding. I love creating fun and useful projects. When I'm not coding, I'm exploring **Telegram Bot Development** and **Machine Learning AI**.
+<div align="center">
+  Hey there! I'm a <strong>passionate coder</strong> from India, with 1.5 years of experience in the world of technology and coding. I love creating fun and useful projects. When I'm not coding, I'm exploring <strong>Telegram Bot Development</strong> and <strong>Machine Learning AI</strong>.
+</div>
 
 - 💼 **Years of Coding**: 1.5 years
 - 🎓 **Education**: School Student
