@@ -135,8 +135,6 @@
 <ul align="center" style="list-style: none;">
   <li>
     <img src="https://img.shields.io/badge/Telegram%20Bot%20Development-%F0%9F%93%B1-blue?style=for-the-badge" alt="Telegram Bot Development">
-  </li>
-  <li>
     <img src="https://img.shields.io/badge/Machine%20Learning%20%26%20AI-%F0%9F%A4%96-red?style=for-the-badge" alt="Machine Learning & AI">
   </li>
 </ul>
@@ -147,10 +145,10 @@
 
 <ul style="list-style: none; text-align: center; padding: 0;">
   <li style="margin-bottom: 10px;">
-    <a href="https://github.com/harshit-bit10/SharkLeech"><img src="https://img.shields.io/badge/Shark%20Leech-yellow?style=for-the-badge" alt="Shark-Leech"></a> - A Super Enhanced Telegram bot that can download and upload files from multiple sources also now it can process internally with custom watermark metadata and other video tools also.
+    <a href="https://github.com/harshit-bit10/SharkLeech"><img src="https://img.shields.io/badge/Shark%20Leech-yellow?style=for-the-badge" alt="Shark-Leech"></a><b> - A Super Enhanced Telegram bot that can download and upload files from multiple sources also now it can process internally with custom watermark metadata and other video tools also.</b>
   </li>
   <li>
-    <a href="https://github.com/harshit-bit10/Auto-Post-bot"><img src="https://img.shields.io/badge/Auto%20Post%20Bot-green?style=for-the-badge" alt="Auto-Post-Bot"></a> - A web app that indexes your Telegram Channel and serves files automatically to channels which it grabs from various multimedia sources. (Now fully private)
+    <a href="https://github.com/harshit-bit10/Auto-Post-bot"><img src="https://img.shields.io/badge/Auto%20Post%20Bot-green?style=for-the-badge" alt="Auto-Post-Bot"></a><b> - A web app that indexes your Telegram Channel and serves files automatically to channels which it grabs from various multimedia sources. (Now fully private)</b>
   </li>
 </ul>
 
