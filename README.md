@@ -1,133 +1,108 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm **Harshit**!
 
-Welcome to my GitHub! I'm a **[Your Profession or Title]** passionate about [Your Passion—e.g., coding, design, AI, etc.]. Here you'll find my work, projects, and experiments.
+## 🌟 About Me
+Hey there! I'm a **passionate coder** from India, with 1.5 years of experience in the world of technology and coding. I love creating fun and useful projects. When I'm not coding, I'm exploring **Android Development** and **Machine Learning AI**.
 
-![Banner](https://via.placeholder.com/1500x500.png?text=Welcome+to+My+GitHub)  <!-- Replace with your banner image -->
-
----
-
-## 🔧 About Me
-
-I'm always eager to learn new technologies, build innovative solutions, and collaborate with like-minded individuals. My primary focus is on [Programming Language/Technology/Field], but I also love diving into [another technology or field of interest].
-
-**Skills & Technologies**:
-- 🔹 **Languages**: JavaScript, Python, TypeScript, HTML, CSS
-- 🔹 **Frameworks**: React, Node.js, Django
-- 🔹 **Databases**: MongoDB, PostgreSQL
-- 🔹 **Tools**: Git, Docker, VS Code, Webpack
-- 🔹 **Other**: CI/CD, APIs, RESTful services
+- 💼 **Years of Coding**: 1.5 years
+- 🎓 **Education**: School Student
+- 🌏 **Nationality**: Indian
+- 🚀 **Current Focus**: Learning new technologies and contributing to open-source
 
 ---
 
-## 🚀 My Projects
+## 💬 Get in Touch
 
-Here are some of my favorite projects:
-
-### 1. **[Project Name 1](https://github.com/yourusername/project-name-1)**
-
-A brief description of what this project does, technologies used, and why it's awesome!
-
-- 🛠️ Built with: React, Express, MongoDB
-- 🎬 [Watch demo](https://yourprojectdemo.com)
-- 📜 [Read the documentation](https://github.com/yourusername/project-name-1/wiki)
-
-### 2. **[Project Name 2](https://github.com/yourusername/project-name-2)**
-
-This project is focused on solving problem XYZ with elegant solutions using [specific tech]. It was a fun learning experience for me.
-
-- 🛠️ Built with: Vue, Node.js, PostgreSQL
-- 🖼️ [View Screenshot](https://via.placeholder.com/600x400.png?text=Project+2+Screenshot)
-- 📜 [Documentation](https://github.com/yourusername/project-name-2/wiki)
-
-### 3. **[Project Name 3](https://github.com/yourusername/project-name-3)**
-
-A detailed description of what this project does and why it's important.
-
-- 🛠️ Built with: Python, Django, MySQL
-- 🌍 [Live Demo](https://yourprojectdemo.com)
+- 📧 **Email**: [SharkToonsOfficial@gmail.com]  
+- 📱 **Telegram**: [@SupremeYoriichi](https://t.me/SupremeYoriichi)  
 
 ---
 
-## 💬 Let's Connect!
+## 🛠️ Tech Stack
 
-Feel free to reach out if you're interested in collaborating on exciting projects or if you just want to chat about tech, design, or life! 🤗
+Here’s a glimpse of the technologies I work with:
 
-- 📧 **Email**: [youremail@example.com](mailto:youremail@example.com)
-- 💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourusername)
+### 🔧 **Languages**  
+- Java, Python, JavaScript  
+
+### 💻 **Web Development**  
+- HTML5, CSS3, WordPress
+
+### ⚙️ **Back-End & Cloud**  
+- Heroku, Google Cloud, AWS, Azure, Netlify, Vercel  
+
+### 📦 **Databases**  
+- MongoDB, MySQL
+
+### 🛠️ **Dev Tools & Deployment**  
+- Git, Docker
+
+### 🎨 **Design Tools**  
+- Adobe Photoshop, Canva 
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=dark)
+Check out some of my coding stats!  
+![harshit-bit10's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshit-bit10&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=dark)
 
 ---
 
-## 🏆 Achievements
+## 🎯 GitHub Trophies
 
-Some cool things I've accomplished:
-
-- 🔹 **Open-Source Contributions**: Contributed to [Project A](https://github.com/harshit-bit10-SharkLeech)
-- 🔹 **Hackathon Winner**: Won [XYZ Hackathon 2024](https://xyz-hackathon.com)
-- 🔹 **Technical Blog**: Written articles about [Topic A](https://yourblog.com)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=harshit-bit10&theme=dark&no-frame=true)](https://github.com/harshit-bit10)
 
 ---
 
-## 📚 Favorite Tech Quotes
+## 💬 Fun Fact
 
-> _"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."_  
-> — *Martin Fowler*
-
-> _"It’s not a bug, it’s a feature."_  
-> — *Unknown*
+I am **Unstoppable** but can **Halt** sometimes! 😜   
+I'm always excited to learn something new and build cool projects, but sometimes I like to take a break and get creative with designs or play around with random ideas. 🔮
 
 ---
 
-## 🛠️ Currently Working On
+## ✨ What I’m Learning
 
-I'm currently working on:
-
-- 💻 A **[Personal Project Name]** to build a [description of what it does].
-- 📚 Reading up on **[Technology]** and **[Topic]** to improve my skills.
+- **Android Development** 📱  
+- **Machine Learning & AI** 🤖
 
 ---
 
-## 🎨 Fun Fact
+## 📌 Pinned Repos
 
-- I enjoy **[your hobbies]**, like [hobby 1], [hobby 2], and [hobby 3].
-- I am a huge fan of **[something unique to you]**.
+Check out some of my top repos that I’ve worked on:
 
----
+1. **[WZML-X](https://github.com/harshit-bit10/SharkLeech)**  
+   A **Super Enhanced Telegram bot** that can download and upload files from multiple sources.
 
-## 💡 Fun Animations & Effects
-
-Here's a fun, animated greeting for you:
-
-![Welcome Animation](https://media.giphy.com/media/XYZ12345/giphy.gif)  <!-- Replace with your GIF -->
+2. **[Surf-TG](https://github.com/harshit-bit10/Auto-Post-bot)**  
+   A web app that indexes your **Telegram Channel** and serves files automatically to channels which it grabs from various multimedia souces {now fully private}.
 
 ---
 
-## 👥 My Open-Source Contributions
+## 🏅 GitHub Activity
 
-Thank you to the following projects for inspiring me to contribute!
+**1,352 contributions in the last year**  
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg)](https://github.com/yourusername/project-name/graphs/contributors)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=harshit-bit10&bg_color=1a1b27&color=ffffff&line=fcfcfc&point=ff0000&area=true)
+
+---
+
+## 💡 Inspiration
+
+> _"The best way to predict the future is to create it."_ — **Abraham Lincoln**  
+> _"Success is not final, failure is not fatal: It is the courage to continue that counts."_ — **Winston Churchill**
+
+---
+
+## 🌍 Let's Collaborate!
+
+I'm always open to collaborating on exciting projects!  
+[![Let's Collaborate](https://img.shields.io/badge/Collaborate-Open-blue?style=for-the-badge)](https://github.com/harshit-bit10)
 
 ---
 
 ## 📜 License
 
-This README is available under the MIT License. Feel free to use, share, or contribute!
-
----
-
-## 🌍 Follow Me
-
-If you want to stay updated with my latest projects and blog posts, you can follow me on:
-
-- **Twitter**: [@YourUsername](https://twitter.com/yourusername)
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/yourname)
-- **Personal Blog**: [yourblog.com](https://yourblog.com)
-
----
+This README is available under the **MIT License**. Feel free to use or share any part of it!
 
