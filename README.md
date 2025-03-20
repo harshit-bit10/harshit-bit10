@@ -28,10 +28,8 @@
       <td><img src="https://img.shields.io/badge/🌏%20My%20Current%20Age-17%20Years-green?style=for-the-badge" alt="My Current Age"></td>
     </tr>
     <tr>
-      <td colspan="4"><img src="https://img.shields.io/badge/🚀%20Current%20Focus-Learning%20new%20technologies%20and%20contributing%20to%20open--source-red?style=for-the-badge" alt="Current Focus"></td>
-    </tr>
-    <tr>
-      <td colspan="4"><img src="https://img.shields.io/badge/✨%20Hobbies-Reading,%20Gaming,%20Travelling-yellow?style=for-the-badge" alt="Hobbies"></td>
+      <td colspan="2"><img src="https://img.shields.io/badge/🚀%20Current%20Focus-Learning%20new%20technologies%20and%20contributing%20to%20open--source-red?style=for-the-badge" alt="Current Focus"></td>
+      <td colspan="2"><img src="https://img.shields.io/badge/✨%20Hobbies-Reading,%20Gaming,%20Travelling-yellow?style=for-the-badge" alt="Hobbies"></td>
     </tr>
   </table>
 </div>
