@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center">🌟 About Me</h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif;">🌟 About Me</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Passionate%20Coder%20from%20India-FF5733?style=for-the-badge" alt="Passionate Coder">
@@ -19,7 +19,7 @@
 
 ---
 
-<h2 align="center">🌟 Socials</h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif;">🌟 Socials</h2>
 
 <div align="center">
   <table>
@@ -38,23 +38,23 @@
 
 ---
 
-<h2 align="center">🌟 Connect with Me</h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif;">🌟 Connect with Me</h2>
 
 <div align="center">
   <a href="https://github.com/harshit-bit10" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="mailto:harshit@example.com">
+  <a href="mailto:sharktoonsofficial@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/harshit-bit10" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <a href="https://t.me/SupremeYoriichi" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Connect%20with%20Me-0077B5?style=for-the-badge&logo=Telegarm" alt="Telegram">
   </a>
 </div>
 
 ---
 
-<h2 align="center">🎨 Skills</h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif;">🎨 Skills</h2>
 
 <div align="center">
   <table>
@@ -67,31 +67,31 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif;">🛠️ Tech Stack</h2>
 
 Here’s a glimpse of the technologies I work with:
 
-<h3 align="center">🔧 Languages</h3>
+<h3 align="center" style="font-family: 'Arial', sans-serif;">🔧 Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript" alt="JavaScript"/>
 </p>
 
-<h3 align="center">💻 Web Development</h3>
+<h3 align="center" style="font-family: 'Arial', sans-serif;">💻 Web Development</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3" alt="CSS3"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress" alt="WordPress"/>
 </p>
 
-<h3 align="center">📦 Databases</h3>
+<h3 align="center" style="font-family: 'Arial', sans-serif;">📦 Databases</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql" alt="MySQL"/>
 </p>
 
-<h3 align="center">⚙️ Back-End & Cloud</h3>
+<h3 align="center" style="font-family: 'Arial', sans-serif;">⚙️ Back-End & Cloud</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku" alt="Heroku"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud" alt="Google Cloud"/>
@@ -101,13 +101,13 @@ Here’s a glimpse of the technologies I work with:
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel" alt="Vercel"/>
 </p>
 
-<h3 align="center">🎨 Design Tools</h3>
+<h3 align="center" style="font-family: 'Arial', sans-serif;">🎨 Design Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop" alt="Adobe Photoshop"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva" alt="Canva"/>
 </p>
 
-<h3 align="center">🛠️ Dev Tools & Deployment</h3>
+<h3 align="center" style="font-family: 'Arial', sans-serif;">🛠️ Dev Tools & Deployment</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" alt="Docker"/>
@@ -115,7 +115,7 @@ Here’s a glimpse of the technologies I work with:
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif;">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshit-bit10&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=dark" alt="GitHub Stats" />
@@ -123,7 +123,7 @@ Here’s a glimpse of the technologies I work with:
 
 ---
 
-<h2 align="center">🎯 GitHub Trophies</h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif;">🎯 GitHub Trophies</h2>
 
 <p align="center">
   <a href="https://github.com/harshit-bit10">
@@ -133,7 +133,7 @@ Here’s a glimpse of the technologies I work with:
 
 ---
 
-<h2 align="center">💬 Fun Fact</h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif;">💬 Fun Fact</h2>
 
 <p align="center">
   I am <strong>Unstoppable</strong> but can <strong>Halt</strong> sometimes! 😜   
@@ -142,25 +142,25 @@ Here’s a glimpse of the technologies I work with:
 
 ---
 
-<h2 align="center">✨ What I’m Learning</h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif;">✨ What I’m Learning</h2>
 
-<ul align="center">
+<ul align="center" style="list-style: none;">
   <li>Telegram Bot Development 📱</li>
   <li>Machine Learning & AI 🤖</li>
 </ul>
 
 ---
 
-<h2 align="center">📌 Pinned Repos</h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif;">📌 Pinned Repos</h2>
 
-<ul align="center">
+<ul align="center" style="list-style: none;">
   <li><a href="https://github.com/harshit-bit10/SharkLeech"><strong>Shark-Leech</strong></a> - A Super Enhanced Telegram bot that can download and upload files from multiple sources.</li>
   <li><a href="https://github.com/harshit-bit10/Auto-Post-bot"><strong>Auto-Post-Bot</strong></a> - A web app that indexes your Telegram Channel and serves files automatically to channels which it grabs from various multimedia sources. (Now fully private)</li>
 </ul>
 
 ---
 
-<h2 align="center">🏅 GitHub Activity</h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif;">🏅 GitHub Activity</h2>
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=harshit-bit10&bg_color=1a1b27&color=ffffff&line=fcfcfc&point=ff0000&area=true" alt="Contribution Graph" />
@@ -168,7 +168,7 @@ Here’s a glimpse of the technologies I work with:
 
 ---
 
-<h2 align="center">💡 Inspiration</h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif;">💡 Inspiration</h2>
 
 <p align="center">
   <q>The best way to predict the future is to create it.</q> — <strong>Abraham Lincoln</strong>  
@@ -178,7 +178,7 @@ Here’s a glimpse of the technologies I work with:
 
 ---
 
-<h2 align="center">🌍 Let's Collaborate!</h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif;">🌍 Let's Collaborate!</h2>
 
 <p align="center">
   I'm always open to collaborating on exciting projects!  
@@ -187,7 +187,7 @@ Here’s a glimpse of the technologies I work with:
 
 ---
 
-<h2 align="center">📜 License</h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif;">📜 License</h2>
 
 <p align="center">
   This README is available under the <strong>MIT License</strong>. Feel free to use or share any part of it!
