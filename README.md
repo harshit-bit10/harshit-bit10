@@ -19,19 +19,6 @@
 
 ---
 
-## 🌟 About Me
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Passionate%20Coder%20from%20India-FF5733?style=for-the-badge" alt="Passionate Coder">
-  <img src="https://img.shields.io/badge/1.5%20years%20of%20Experience-4CAF50?style=for-the-badge" alt="Experience">
-</div>
-
-<div align="center">
-  <p>Hey there! I'm a <strong>passionate coder</strong> from India, with 1.5 years of experience in the world of technology and coding. I love creating fun and useful projects. When I'm not coding, I'm exploring <strong>Telegram Bot Development</strong> and <strong>Machine Learning AI</strong>.</p>
-</div>
-
----
-
 <div align="center">
   <table>
     <tr>
@@ -44,6 +31,7 @@
     </tr>
     <tr>
       <td colspan="3"><img src="https://img.shields.io/badge/✨%20Hobbies-Reading,%20Gaming,%20Travelling-yellow?style=for-the-badge" alt="Hobbies"></td>
+      <td colspan="3"><img src="https://img.shields.io/badge/🚴%20Activities-Cycling,%20Hiking,%20Swimming-blue?style=for-the-badge" alt="Activities"></td>
     </tr>
   </table>
 </div>
