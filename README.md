@@ -166,21 +166,20 @@
 
 <div style="text-align: center;">
   <h4 align="center" style="color: green;">Here’s a glimpse of the technologies I work with:</h4>
-  <div>
+  <div align="center">
     <img src="https://img.shields.io/badge/Contributions-1,352-brightgreen" alt="Contributions">
-    <img src="https://img.shields.io/badge/Issues-10%20open-red" alt="Issues">
-    <img src="https://img.shields.io/badge/Pull%20Requests-5%20merged-blue" alt="Pull Requests">
+    <img src="https://img.shields.io/badge/Issues-23%20open-red" alt="Issues">
+    <img src="https://img.shields.io/badge/Pull%20Requests-12%20merged-blue" alt="Pull Requests">
+    <img src="https://img.shields.io/badge/Commits-189%20merged-orange" alt="Commits">
+    <img src="https://img.shields.io/badge/Public%20Repositories-100-%20open-red" alt="Public Repositories">    
   </div>
 </div>
 
 ---
 
 <h2 align="center" style="font-family: 'Arial', sans-serif;">💡 Inspiration</h2>
-<p align="center">
 > _"The best way to predict the future is to create it."_ — **Abraham Lincoln**  
 > _"Success is not final, failure is not fatal: It is the courage to continue that counts."_ — **Winston Churchill**
-
-</p>
 
 ---
 
