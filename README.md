@@ -1,4 +1,4 @@
-# <div>👋 Hello, I'm <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Harshit!✨" alt="Typing SVG" /></div>
+# <div><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=👋 Hello, I'm Harshit!✨" alt="Typing SVG" /></div>
 
 ## 🌟 About Me
 <div align="center">
