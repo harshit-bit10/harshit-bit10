@@ -19,6 +19,8 @@
 
 ---
 
+## 🌟 Socials
+
 <div align="center">
   <table>
     <tr>
@@ -46,6 +48,19 @@
   <a href="https://www.linkedin.com/in/harshit-bit10" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
+</div>
+
+---
+
+## 🎨 Skills
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/💻%20Programming%20Languages-Python,%20JavaScript-yellow?style=for-the-badge" alt="Programming Languages"></td>
+      <td><img src="https://img.shields.io/badge/🛠️%20Tools%20&%20Technologies-GitHub,%20Docker-blue?style=for-the-badge" alt="Tools & Technologies"></td>
+    </tr>
+  </table>
 </div>
 
 ---
