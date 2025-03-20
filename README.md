@@ -69,7 +69,9 @@
 
 <h2 align="center" style="font-family: 'Arial', sans-serif;">🛠️ Tech Stack</h2>
 
-<h4 style="color: green;">Here’s a glimpse of the technologies I work with:<h4>
+<div style="text-align: center;">
+  <h4 style="color: green;">Here’s a glimpse of the technologies I work with:</h4>
+</div>
 
 <h3 align="center" style="font-family: 'Arial', sans-serif;">🔧 Languages</h3>
 <p align="center">
