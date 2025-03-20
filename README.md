@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center" style="font-family: 'Arial', sans-serif;">🌟 About Me</h2>
+<h2 align="center" style="font-family: 'Times New Roman', sans-serif;">🌟 About Me</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Passionate%20Coder%20from%20India-FF5733?style=for-the-badge" alt="Passionate Coder">
