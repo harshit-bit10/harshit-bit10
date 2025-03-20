@@ -7,21 +7,42 @@
 ---
 
 ## 🌟 About Me
+
 <div align="center">
-  Hey there! I'm a <strong>passionate coder</strong> from India, with 1.5 years of experience in the world of technology and coding. I love creating fun and useful projects. When I'm not coding, I'm exploring <strong>Telegram Bot Development</strong> and <strong>Machine Learning AI</strong>.
+  <img src="https://img.shields.io/badge/Passionate%20Coder%20from%20India-FF5733?style=for-the-badge" alt="Passionate Coder">
+  <img src="https://img.shields.io/badge/1.5%20years%20of%20Experience-4CAF50?style=for-the-badge" alt="Experience">
 </div>
 
-- 💼 **Years of Coding**: 1.5 years
-- 🎓 **Education**: School Student
-- 🌏 **Nationality**: Indian
-- 🚀 **Current Focus**: Learning new technologies and contributing to open-source
+<div align="center">
+  <p>Hey there! I'm a <strong>passionate coder</strong> from India, with 1.5 years of experience in the world of technology and coding. I love creating fun and useful projects. When I'm not coding, I'm exploring <strong>Telegram Bot Development</strong> and <strong>Machine Learning AI</strong>.</p>
+</div>
 
 ---
 
-## 💬 Get in Touch
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/💼%20Years%20of%20Coding-1.5%20years-blue?style=for-the-badge" alt="Years of Coding"></td>
+      <td><img src="https://img.shields.io/badge/🎓%20Education-School%20Student-orange?style=for-the-badge" alt="Education"></td>
+      <td><img src="https://img.shields.io/badge/🌏%20Nationality-Indian-green?style=for-the-badge" alt="Nationality"></td>
+      <td><img src="https://img.shields.io/badge/🚀%20Current%20Focus-Learning%20new%20technologies%20and%20contributing%20to%20open--source-red?style=for-the-badge" alt="Current Focus"></td>
+    </tr>
+  </table>
+</div>
 
-- 📧 **Email**: [SharkToonsOfficial@gmail.com]  
-- 📱 **Telegram**: [@SupremeYoriichi](https://t.me/SupremeYoriichi)  
+---
+
+<div align="center">
+  <a href="https://github.com/harshit-bit10" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:harshit@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/harshit-bit10" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</div>
 
 ---
 
