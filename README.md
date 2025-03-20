@@ -163,9 +163,17 @@
 
 <h2 align="center" style="font-family: 'Arial', sans-serif;">🏅 GitHub Activity</h2>
 
-**1,352 contributions in the last year**  
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=harshit-bit10&bg_color=1a1b27&color=ffffff&line=fcfcfc&point=ff0000&area=true)
+<div style="text-align: center;">
+  <h4 style="color: green;">Here’s a glimpse of the technologies I work with:</h4>
+  <div>
+    <button style="margin: 5px;">1</button>
+    <button style="margin: 5px;">3</button>
+    <button style="margin: 5px;">5</button>
+    <button style="margin: 5px;">2</button>
+    <span style="margin: 5px;">and rest text</span>
+  </div>
+</div>
 
 ---
 
