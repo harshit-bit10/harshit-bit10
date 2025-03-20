@@ -142,8 +142,9 @@
 <h2 align="center" style="font-family: 'Arial', sans-serif;">📌 Pinned Repos</h2>
 
 <ul align="center" style="list-style: none;">
-  <li><a href="https://github.com/harshit-bit10/SharkLeech"><strong>Shark-Leech</strong></a> - A Super Enhanced Telegram bot that can download and upload files from multiple sources also now it can process internally with custom watermark metadata and other video tools also.</li>
-  <li><a href="https://github.com/harshit-bit10/Auto-Post-bot"><strong>Auto-Post-Bot</strong></a> - A web app that indexes your Telegram Channel and serves files automatically to channels which it grabs from various multimedia sources. (Now fully private)</li>
+  <li>
+    <a href="https://github.com/harshit-bit10/SharkLeech"><img src="https://img.shields.io/badge/Shark-Leech-yellow?style=for-the-badge" alt="Shark-Leech"><strong>Shark-Leech</strong></a> - A Super Enhanced Telegram bot that can download and upload files from multiple sources also now it can process internally with custom watermark metadata and other video tools also.</li>
+  <li><a href="https://github.com/harshit-bit10/Auto-Post-bot"<img src="https://img.shields.io/badge/Auto-Post-Bot-green?style=for-the-badge" alt="Auto-Post-Bot">><strong>Auto-Post-Bot</strong></a> - A web app that indexes your Telegram Channel and serves files automatically to channels which it grabs from various multimedia sources. (Now fully private)</li>
 </ul>
 
 ---
