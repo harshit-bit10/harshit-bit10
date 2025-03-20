@@ -54,19 +54,6 @@
 
 ---
 
-<h2 align="center" style="font-family: 'Arial', sans-serif;">🎨 Skills</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/badge/💻%20Programming%20Languages-Python,%20JavaScript-yellow?style=for-the-badge" alt="Programming Languages"></td>
-      <td><img src="https://img.shields.io/badge/🛠️%20Tools%20&%20Technologies-GitHub,%20Docker-blue?style=for-the-badge" alt="Tools & Technologies"></td>
-    </tr>
-  </table>
-</div>
-
----
-
 <h2 align="center" style="font-family: 'Arial', sans-serif;">🛠️ Tech Stack</h2>
 
   <h4 align="center" style="color: green;">Here’s a glimpse of the technologies I work with:</h4>
@@ -110,7 +97,7 @@
 
 <h3 align="center" style="font-family: 'Arial', sans-serif;">🛠️ Dev Tools & Deployment</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" alt="Git"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" alt="Docker"/>
 </p>
 
