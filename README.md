@@ -163,9 +163,9 @@
 
 <h2 align="center" style="font-family: 'Arial', sans-serif;">🏅 GitHub Activity</h2>
 
-<p align="center">
-  <img src="[https://activity-graph.herokuapp.com/graph?username=harshit-bit10&bg_color=1a1b27&color=ffffff&line=fcfcfc&point=ff0000&area=true](https://activity-graph.herokuapp.com/graph?username=harshit-bit10&bg_color=1a1b27&color=ffffff&line=fcfcfc&point=ff0000&area=true)" alt="Contribution Graph" />
-</p>
+**1,352 contributions in the last year**  
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=harshit-bit10&bg_color=1a1b27&color=ffffff&line=fcfcfc&point=ff0000&area=true)
 
 ---
 
