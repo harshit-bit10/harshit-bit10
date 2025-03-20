@@ -167,10 +167,10 @@
 <div style="text-align: center;">
   <h4 style="color: green;">Here’s a glimpse of the technologies I work with:</h4>
   <div>
-    <button style="margin: 5px;">1</button>
-    <button style="margin: 5px;">3</button>
-    <button style="margin: 5px;">5</button>
-    <button style="margin: 5px;">2</button>
+    <button style="margin: 5px; padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 4px;">1</button>
+    <button style="margin: 5px; padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 4px;">3</button>
+    <button style="margin: 5px; padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 4px;">5</button>
+    <button style="margin: 5px; padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 4px;">2</button>
     <span style="margin: 5px;">and rest text</span>
   </div>
 </div>
