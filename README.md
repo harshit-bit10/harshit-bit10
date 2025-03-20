@@ -28,10 +28,7 @@
     </tr>
     <tr>
       <td colspan="3"><img src="https://img.shields.io/badge/🚀%20Current%20Focus-Learning%20new%20technologies%20and%20contributing%20to%20open--source-red?style=for-the-badge" alt="Current Focus"></td>
-    </tr>
-    <tr>
       <td colspan="3"><img src="https://img.shields.io/badge/✨%20Hobbies-Reading,%20Gaming,%20Travelling-yellow?style=for-the-badge" alt="Hobbies"></td>
-      <td colspan="3"><img src="https://img.shields.io/badge/🚴%20Activities-Cycling,%20Hiking,%20Swimming-blue?style=for-the-badge" alt="Activities"></td>
     </tr>
   </table>
 </div>
