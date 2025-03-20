@@ -164,7 +164,7 @@
 <h2 align="center" style="font-family: 'Arial', sans-serif;">🏅 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=harshit-bit10&bg_color=1a1b27&color=ffffff&line=fcfcfc&point=ff0000&area=true" alt="Contribution Graph" />
+  <img src="[https://activity-graph.herokuapp.com/graph?username=harshit-bit10&bg_color=1a1b27&color=ffffff&line=fcfcfc&point=ff0000&area=true](https://activity-graph.herokuapp.com/graph?username=harshit-bit10&bg_color=1a1b27&color=ffffff&line=fcfcfc&point=ff0000&area=true)" alt="Contribution Graph" />
 </p>
 
 ---
@@ -172,9 +172,8 @@
 <h2 align="center" style="font-family: 'Arial', sans-serif;">💡 Inspiration</h2>
 
 <p align="center">
-  <q>The best way to predict the future is to create it.</q> — <strong>Abraham Lincoln</strong>  
-  <br>
-  <q>Success is not final, failure is not fatal: It is the courage to continue that counts.</q> — <strong>Winston Churchill</strong>
+> _"The best way to predict the future is to create it."_ — **Abraham Lincoln**  
+> _"Success is not final, failure is not fatal: It is the courage to continue that counts."_ — **Winston Churchill**
 </p>
 
 ---
@@ -182,7 +181,7 @@
 <h2 align="center" style="font-family: 'Arial', sans-serif;">🌍 Let's Collaborate!</h2>
 
 <p align="center">
-  I'm always open to collaborating on exciting projects!  
+  I'm always open to collaborating on exciting projects!</p><p align="center">  
   <a href="https://github.com/harshit-bit10"><img src="https://img.shields.io/badge/Collaborate-Open-blue?style=for-the-badge" alt="Let's Collaborate"></a>
 </p>
 
