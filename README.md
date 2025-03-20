@@ -19,13 +19,31 @@
 
 ---
 
+## 🌟 About Me
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Passionate%20Coder%20from%20India-FF5733?style=for-the-badge" alt="Passionate Coder">
+  <img src="https://img.shields.io/badge/1.5%20years%20of%20Experience-4CAF50?style=for-the-badge" alt="Experience">
+</div>
+
+<div align="center">
+  <p>Hey there! I'm a <strong>passionate coder</strong> from India, with 1.5 years of experience in the world of technology and coding. I love creating fun and useful projects. When I'm not coding, I'm exploring <strong>Telegram Bot Development</strong> and <strong>Machine Learning AI</strong>.</p>
+</div>
+
+---
+
 <div align="center">
   <table>
     <tr>
       <td><img src="https://img.shields.io/badge/💼%20Years%20of%20Coding-1.5%20years-blue?style=for-the-badge" alt="Years of Coding"></td>
       <td><img src="https://img.shields.io/badge/🎓%20Education-School%20Student-orange?style=for-the-badge" alt="Education"></td>
       <td><img src="https://img.shields.io/badge/🌏%20Nationality-Indian-green?style=for-the-badge" alt="Nationality"></td>
-      <td><img src="https://img.shields.io/badge/🚀%20Current%20Focus-Learning%20new%20technologies%20and%20contributing%20to%20open--source-red?style=for-the-badge" alt="Current Focus"></td>
+    </tr>
+    <tr>
+      <td colspan="3"><img src="https://img.shields.io/badge/🚀%20Current%20Focus-Learning%20new%20technologies%20and%20contributing%20to%20open--source-red?style=for-the-badge" alt="Current Focus"></td>
+    </tr>
+    <tr>
+      <td colspan="3"><img src="https://img.shields.io/badge/✨%20Hobbies-Reading,%20Gaming,%20Travelling-yellow?style=for-the-badge" alt="Hobbies"></td>
     </tr>
   </table>
 </div>
