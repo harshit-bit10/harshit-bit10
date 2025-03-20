@@ -133,9 +133,8 @@
 <h2 align="center" style="font-family: 'Arial', sans-serif;">✨ What I’m Learning</h2>
 
 <p align="center" style="list-style: none;">
-
-    <img src="https://img.shields.io/badge/Telegram%20Bot%20Development-%F0%9F%93%B1-blue?style=for-the-badge" alt="Telegram Bot Development" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Machine%20Learning%20%26%20AI-%F0%9F%A4%96-red?style=for-the-badge" alt="Machine Learning & AI" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/Telegram%20Bot%20Development-%F0%9F%93%B1-blue?style=for-the-badge" alt="Telegram Bot Development" style="display: inline-block; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Machine%20Learning%20%26%20AI-%F0%9F%A4%96-red?style=for-the-badge" alt="Machine Learning & AI" style="display: inline-block; margin-left: 10px;">
 </p>
 
 ---
