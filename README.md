@@ -173,6 +173,11 @@
     <button style="margin: 5px; padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 4px;">2</button>
     <span style="margin: 5px;">and rest text</span>
   </div>
+  <div>
+    <img src="https://img.shields.io/badge/Contributions-1,352-brightgreen" alt="Contributions">
+    <img src="https://img.shields.io/badge/Issues-10%20open-red" alt="Issues">
+    <img src="https://img.shields.io/badge/Pull%20Requests-5%20merged-blue" alt="Pull Requests">
+  </div>
 </div>
 
 ---
