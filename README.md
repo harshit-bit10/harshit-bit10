@@ -176,13 +176,11 @@
 ---
 
 <h2 align="center" style="font-family: 'Arial', sans-serif;">💡 Inspiration</h2>
-
-## 💡 Inspiration
-
+<p align="center">
 > _"The best way to predict the future is to create it."_ — **Abraham Lincoln**  
 > _"Success is not final, failure is not fatal: It is the courage to continue that counts."_ — **Winston Churchill**
 
----
+</p>
 
 ---
 
