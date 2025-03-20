@@ -73,8 +73,9 @@ Check out some of my coding stats!
 ---
 
 ## 🎯 GitHub Trophies
+[![Trophy](https://github-profile-trophy.vercel.app/?username=harshit-bit10&theme=dark&column=5&row=1&no-frame=true)](https://github.com/harshit-bit10)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=harshit-bit10&theme=dark&no-frame=true)](https://github.com/harshit-bit10)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=harshit-bit10&theme=dark&column=4&row=2&no-frame=true)](https://github.com/harshit-bit10)
 
 ---
 
