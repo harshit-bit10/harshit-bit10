@@ -3,9 +3,9 @@
 ## 🌟 About Me
 Hey there! I'm a **passionate coder** from India, with 1.5 years of experience in the world of technology and coding. I love creating fun and useful projects. When I'm not coding, I'm exploring **Telegram Bot Development** and **Machine Learning AI**.
 
-- 💼 **Years of Coding**: 1.5 years  
-- 🎓 **Education**: School Student  
-- 🌏 **Nationality**: Indian  
+- 💼 **Years of Coding**: 1.5 years
+- 🎓 **Education**: School Student
+- 🌏 **Nationality**: Indian
 - 🚀 **Current Focus**: Learning new technologies and contributing to open-source
 
 ---
@@ -13,7 +13,7 @@ Hey there! I'm a **passionate coder** from India, with 1.5 years of experience i
 ## 💬 Get in Touch
 
 - 📧 **Email**: [SharkToonsOfficial@gmail.com]  
-- 📱 **Telegram**: [@SupremeYoriichi](https://t.me/SupremeYoriichi)
+- 📱 **Telegram**: [@SupremeYoriichi](https://t.me/SupremeYoriichi)  
 
 ---
 
@@ -22,34 +22,46 @@ Hey there! I'm a **passionate coder** from India, with 1.5 years of experience i
 Here’s a glimpse of the technologies I work with:
 
 ### 🔧 **Languages**  
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)  
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript" alt="JavaScript"/>
+</p>
 
 ### 💻 **Web Development**  
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)  
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)  
-- ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress)
-
-### ⚙️ **Back-End & Cloud**  
-- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku)  
-- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud)  
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)  
-- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure)  
-- ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify)  
-- ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress" alt="WordPress"/>
+</p>
 
 ### 📦 **Databases**  
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)  
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql" alt="MySQL"/>
+</p>
 
-### 🛠️ **Dev Tools & Deployment**  
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)  
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+### ⚙️ **Back-End & Cloud**  
+<p>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku" alt="Heroku"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel" alt="Vercel"/>
+</p>
 
 ### 🎨 **Design Tools**  
-- ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop)  
-- ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva)
+<p>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop" alt="Adobe Photoshop"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva" alt="Canva"/>
+</p>
+
+### 🛠️ **Dev Tools & Deployment**  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" alt="Docker"/>
+</p>
 
 ---
 
@@ -62,9 +74,7 @@ Check out some of my coding stats!
 
 ## 🎯 GitHub Trophies
 
-#### 🏆 **Achievements**  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=harshit-bit10&theme=dark&column=5&row=1&no-frame=true)](https://github.com/harshit-bit10)  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=harshit-bit10&theme=dark&column=4&row=2&no-frame=true)](https://github.com/harshit-bit10)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=harshit-bit10&theme=dark&no-frame=true)](https://github.com/harshit-bit10)
 
 ---
 
