@@ -6,7 +6,7 @@
 
 ---
 
-## 🌟 About Me
+<h2 align="center">🌟 About Me</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Passionate%20Coder%20from%20India-FF5733?style=for-the-badge" alt="Passionate Coder">
@@ -19,7 +19,7 @@
 
 ---
 
-## 🌟 Socials
+<h2 align="center">🌟 Socials</h2>
 
 <div align="center">
   <table>
@@ -38,6 +38,8 @@
 
 ---
 
+<h2 align="center">🌟 Connect with Me</h2>
+
 <div align="center">
   <a href="https://github.com/harshit-bit10" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub">
@@ -52,7 +54,7 @@
 
 ---
 
-## 🎨 Skills
+<h2 align="center">🎨 Skills</h2>
 
 <div align="center">
   <table>
@@ -65,32 +67,32 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 Here’s a glimpse of the technologies I work with:
 
-### 🔧 **Languages**  
-<p>
+<h3 align="center">🔧 Languages</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript" alt="JavaScript"/>
 </p>
 
-### 💻 **Web Development**  
-<p>
+<h3 align="center">💻 Web Development</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3" alt="CSS3"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress" alt="WordPress"/>
 </p>
 
-### 📦 **Databases**  
-<p>
+<h3 align="center">📦 Databases</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql" alt="MySQL"/>
 </p>
 
-### ⚙️ **Back-End & Cloud**  
-<p>
+<h3 align="center">⚙️ Back-End & Cloud</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku" alt="Heroku"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud" alt="Google Cloud"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws" alt="AWS"/>
@@ -99,20 +101,19 @@ Here’s a glimpse of the technologies I work with:
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel" alt="Vercel"/>
 </p>
 
-### 🎨 **Design Tools**  
-<p>
+<h3 align="center">🎨 Design Tools</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop" alt="Adobe Photoshop"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva" alt="Canva"/>
 </p>
 
-### 🛠️ **Dev Tools & Deployment**  
-<p>
+<h3 align="center">🛠️ Dev Tools & Deployment</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" alt="Docker"/>
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 Check out some of my coding stats!  
