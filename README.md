@@ -171,7 +171,7 @@
     <img src="https://img.shields.io/badge/Issues-23%20open-red" alt="Issues">
     <img src="https://img.shields.io/badge/Pull%20Requests-12%20merged-blue" alt="Pull Requests">
     <img src="https://img.shields.io/badge/Commits-189%20merged-orange" alt="Commits">
-    <img src="https://img.shields.io/badge/Public%20Repositories-100-%20open-red" alt="Public Repositories">    
+    <img src="https://img.shields.io/badge/Public%20Repositories-100%20open-red" alt="Public Repositories">    
   </div>
 </div>
 
