@@ -165,14 +165,7 @@
 
 
 <div style="text-align: center;">
-  <h4 style="color: green;">Here’s a glimpse of the technologies I work with:</h4>
-  <div>
-    <button style="margin: 5px; padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 4px;">1</button>
-    <button style="margin: 5px; padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 4px;">3</button>
-    <button style="margin: 5px; padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 4px;">5</button>
-    <button style="margin: 5px; padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 4px;">2</button>
-    <span style="margin: 5px;">and rest text</span>
-  </div>
+  <h4 align="center" style="color: green;">Here’s a glimpse of the technologies I work with:</h4>
   <div>
     <img src="https://img.shields.io/badge/Contributions-1,352-brightgreen" alt="Contributions">
     <img src="https://img.shields.io/badge/Issues-10%20open-red" alt="Issues">
@@ -184,10 +177,12 @@
 
 <h2 align="center" style="font-family: 'Arial', sans-serif;">💡 Inspiration</h2>
 
-<p align="center">
+## 💡 Inspiration
+
 > _"The best way to predict the future is to create it."_ — **Abraham Lincoln**  
 > _"Success is not final, failure is not fatal: It is the courage to continue that counts."_ — **Winston Churchill**
-</p>
+
+---
 
 ---
 
