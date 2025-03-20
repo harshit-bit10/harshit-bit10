@@ -63,7 +63,7 @@ I'm always excited to learn something new and build cool projects, but sometimes
 
 ## ✨ What I’m Learning
 
-- **Android Development** 📱  
+- **Telgram Bot Development** 📱  
 - **Machine Learning & AI** 🤖
 
 ---
