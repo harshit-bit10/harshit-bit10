@@ -4,6 +4,8 @@
   </a>
 </div>
 
+---
+
 ## 🌟 About Me
 <div align="center">
   Hey there! I'm a <strong>passionate coder</strong> from India, with 1.5 years of experience in the world of technology and coding. I love creating fun and useful projects. When I'm not coding, I'm exploring <strong>Telegram Bot Development</strong> and <strong>Machine Learning AI</strong>.
