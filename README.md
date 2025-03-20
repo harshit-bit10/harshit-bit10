@@ -114,68 +114,81 @@ Here’s a glimpse of the technologies I work with:
 </p>
 
 ---
-## 📊 GitHub Stats
 
-Check out some of my coding stats!  
-![harshit-bit10's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshit-bit10&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=dark)
+<h2 align="center">📊 GitHub Stats</h2>
 
----
-
-## 🎯 GitHub Trophies
-## 🎯 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=harshit-bit10&theme=dark&no-frame=true&column=5)](https://github.com/harshit-bit10)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshit-bit10&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=dark" alt="GitHub Stats" />
+</p>
 
 ---
 
-## 💬 Fun Fact
+<h2 align="center">🎯 GitHub Trophies</h2>
 
-I am **Unstoppable** but can **Halt** sometimes! 😜   
-I'm always excited to learn something new and build cool projects, but sometimes I like to take a break and get creative with designs or play around with random ideas. 🔮
-
----
-
-## ✨ What I’m Learning
-
-- **Telegram Bot Development** 📱  
-- **Machine Learning & AI** 🤖
+<p align="center">
+  <a href="https://github.com/harshit-bit10">
+    <img src="https://github-profile-trophy.vercel.app/?username=harshit-bit10&theme=dark&no-frame=true&column=5" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
-## 📌 Pinned Repos
+<h2 align="center">💬 Fun Fact</h2>
 
-Check out some of my top repos that I’ve worked on:
-
-1. **[Shark-Leech](https://github.com/harshit-bit10/SharkLeech)**  
-   A **Super Enhanced Telegram bot** that can download and upload files from multiple sources.
-
-2. **[Auto-Post-Bot](https://github.com/harshit-bit10/Auto-Post-bot)**  
-   A web app that indexes your **Telegram Channel** and serves files automatically to channels which it grabs from various multimedia sources. (Now fully private)
+<p align="center">
+  I am <strong>Unstoppable</strong> but can <strong>Halt</strong> sometimes! 😜   
+  I'm always excited to learn something new and build cool projects, but sometimes I like to take a break and get creative with designs or play around with random ideas. 🔮
+</p>
 
 ---
 
-## 🏅 GitHub Activity
+<h2 align="center">✨ What I’m Learning</h2>
 
-**1,352 contributions in the last year**  
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=harshit-bit10&bg_color=1a1b27&color=ffffff&line=fcfcfc&point=ff0000&area=true)
-
----
-
-## 💡 Inspiration
-
-> _"The best way to predict the future is to create it."_ — **Abraham Lincoln**  
-> _"Success is not final, failure is not fatal: It is the courage to continue that counts."_ — **Winston Churchill**
+<ul align="center">
+  <li>Telegram Bot Development 📱</li>
+  <li>Machine Learning & AI 🤖</li>
+</ul>
 
 ---
 
-## 🌍 Let's Collaborate!
+<h2 align="center">📌 Pinned Repos</h2>
 
-I'm always open to collaborating on exciting projects!  
-[![Let's Collaborate](https://img.shields.io/badge/Collaborate-Open-blue?style=for-the-badge)](https://github.com/harshit-bit10)
+<ul align="center">
+  <li><a href="https://github.com/harshit-bit10/SharkLeech"><strong>Shark-Leech</strong></a> - A Super Enhanced Telegram bot that can download and upload files from multiple sources.</li>
+  <li><a href="https://github.com/harshit-bit10/Auto-Post-bot"><strong>Auto-Post-Bot</strong></a> - A web app that indexes your Telegram Channel and serves files automatically to channels which it grabs from various multimedia sources. (Now fully private)</li>
+</ul>
 
 ---
 
-## 📜 License
+<h2 align="center">🏅 GitHub Activity</h2>
 
-This README is available under the **MIT License**. Feel free to use or share any part of it!
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=harshit-bit10&bg_color=1a1b27&color=ffffff&line=fcfcfc&point=ff0000&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+<h2 align="center">💡 Inspiration</h2>
+
+<p align="center">
+  <q>The best way to predict the future is to create it.</q> — <strong>Abraham Lincoln</strong>  
+  <br>
+  <q>Success is not final, failure is not fatal: It is the courage to continue that counts.</q> — <strong>Winston Churchill</strong>
+</p>
+
+---
+
+<h2 align="center">🌍 Let's Collaborate!</h2>
+
+<p align="center">
+  I'm always open to collaborating on exciting projects!  
+  <a href="https://github.com/harshit-bit10"><img src="https://img.shields.io/badge/Collaborate-Open-blue?style=for-the-badge" alt="Let's Collaborate"></a>
+</p>
+
+---
+
+<h2 align="center">📜 License</h2>
+
+<p align="center">
+  This README is available under the <strong>MIT License</strong>. Feel free to use or share any part of it!
+</p>
