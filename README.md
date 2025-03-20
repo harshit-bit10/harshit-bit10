@@ -72,10 +72,10 @@ I'm always excited to learn something new and build cool projects, but sometimes
 
 Check out some of my top repos that I’ve worked on:
 
-1. **[WZML-X](https://github.com/harshit-bit10/SharkLeech)**  
+1. **[Shark-Leech](https://github.com/harshit-bit10/SharkLeech)**  
    A **Super Enhanced Telegram bot** that can download and upload files from multiple sources.
 
-2. **[Surf-TG](https://github.com/harshit-bit10/Auto-Post-bot)**  
+2. **[Auto-Post-Bot](https://github.com/harshit-bit10/Auto-Post-bot)**  
    A web app that indexes your **Telegram Channel** and serves files automatically to channels which it grabs from various multimedia souces {now fully private}.
 
 ---
