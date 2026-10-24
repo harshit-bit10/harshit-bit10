@@ -25,9 +25,9 @@
   <table>
     <tr>
       <td><img src="https://img.shields.io/badge/💼%20Years%20of%20Coding-2.5%20years-blue?style=for-the-badge" alt="Years of Coding"></td>
-      <td><img src="https://img.shields.io/badge/🎓%20Education-School%20Student-orange?style=for-the-badge" alt="Education"></td>
+      <td><img src="https://img.shields.io/badge/🎓%20Education-Dropper Currently%20-orange?style=for-the-badge" alt="Education"></td>
       <td><img src="https://img.shields.io/badge/🌏%20Nationality-Indian-green?style=for-the-badge" alt="Nationality"></td>
-      <td><img src="https://img.shields.io/badge/🌏%20My%20Current%20Age-17%20Years-green?style=for-the-badge" alt="My Current Age"></td>
+      <td><img src="https://img.shields.io/badge/🌏%20My%20Current%20Age-18%20Years-green?style=for-the-badge" alt="My Current Age"></td>
     </tr>
     <tr>
       <td colspan="2"><img src="https://img.shields.io/badge/🚀%20Current%20Focus-Learning%20new%20technologies%20and%20contributing%20to%20open--source-red?style=for-the-badge" alt="Current Focus"></td>
