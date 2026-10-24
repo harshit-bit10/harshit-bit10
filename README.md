@@ -24,7 +24,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://img.shields.io/badge/💼%20Years%20of%20Coding-1.5%20years-blue?style=for-the-badge" alt="Years of Coding"></td>
+      <td><img src="https://img.shields.io/badge/💼%20Years%20of%20Coding-2.5%20years-blue?style=for-the-badge" alt="Years of Coding"></td>
       <td><img src="https://img.shields.io/badge/🎓%20Education-School%20Student-orange?style=for-the-badge" alt="Education"></td>
       <td><img src="https://img.shields.io/badge/🌏%20Nationality-Indian-green?style=for-the-badge" alt="Nationality"></td>
       <td><img src="https://img.shields.io/badge/🌏%20My%20Current%20Age-17%20Years-green?style=for-the-badge" alt="My Current Age"></td>
