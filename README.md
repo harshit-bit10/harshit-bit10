@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Passionate%20Coder%20from%20India-FF5733?style=for-the-badge" alt="Passionate Coder">
-  <img src="https://img.shields.io/badge/1.5%20years%20of%20Experience-4CAF50?style=for-the-badge" alt="Experience">
+  <img src="https://img.shields.io/badge/2.5%20years%20of%20Experience-4CAF50?style=for-the-badge" alt="Experience">
 </div>
 
 <div align="center">
